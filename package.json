@@ -19,7 +19,9 @@
     "react-leaflet": "^4.2.1",
     "react-loaders": "^3.0.1",
     "react-router-dom": "^6.10.0",
-    "react-scripts": "5.0.1"
+    "react-scripts": "5.0.1",
+    "react-three-fiber": "^6.0.13",
+    "three": "^0.152.2"
   },
   "scripts": {
     "start": "react-scripts start",
